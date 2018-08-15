@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'BontellaScript';
+  src: url('BontellaScript.eot?#iefix') format('embedded-opentype'),  url('BontellaScript.otf')  format('opentype'),
+	     url('BontellaScript.woff') format('woff'), url('BontellaScript.ttf')  format('truetype'), url('BontellaScript.svg#BontellaScript') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
